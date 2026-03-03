@@ -12,7 +12,6 @@
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] Cancel Aussie Broadband
 - [ ] ==Review outstanding payments==
-- [ ] Review Dees’ open-source endowment post
 - [ ] Reconcile the budget
 - [ ] Review videos from Josh
 - [ ] Start writing my article & newsletter
@@ -50,7 +49,8 @@
 - [ ] Process some inboxes (email, texts, physical)
 - [ ] Reconcile budget (overdue catch-up)
 - [ ] Contact hotel & flights to get Telepath travel receipts
-- [ ] Message Selin re: deposit return
+- [x] Message Selin re: deposit return
+- [ ] Review Dees’ open-source endowment post
 - [ ] Contact Optus to cancel Mum's mobile number & deal with payment
 - [ ] Reach out to Robin Berjon (@robin.berjon.com) re: Telepath / Web Tiles – said "let's chat" in Bluesky thread
 - [ ] Send Josh [Lobster](https://docs.openclaw.ai/tools/lobster) link re workflows
