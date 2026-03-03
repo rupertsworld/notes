@@ -14,10 +14,10 @@
 - [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] ==Review outstanding payments==
-- [ ] Reconcile the budget
 - [ ] ==Start writing my article & newsletter==
 - [ ] Process photos from Sedona
 - [ ] Clear some items from home inbox
+- [ ] Reconcile the budget
 
 ---
 
