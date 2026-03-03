@@ -7,8 +7,8 @@
 	- [x] Push the latest stash
 - [x] Get basic Television working
 - [x] Set up the `lib` repos
+- [ ] - [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
-- [ ] Process more items from my inbox
 - [ ] Cancel Aussie Broadband
 - [ ] ==Review outstanding payments==
 - [ ] Review Dees’ open-source endowment post & reply
