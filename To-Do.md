@@ -5,8 +5,8 @@
 - [x] Finish work on `stash watch`
 	- [x] Waiting for agent to complete
 	- [x] Push the latest stash
-- [ ] Get basic Television working
-	- [ ] 
+- [x] Get basic Television working
+- [ ] 
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] Process more items from my inbox
 - [ ] Cancel Aussie Broadband
