@@ -25,6 +25,7 @@
 
 - [ ] Clear some items from home inbox
 - [ ] Reconcile the budget
+- [ ] Read Borthwick article and respond
 
 ---
 
@@ -121,3 +122,4 @@ With Telepath:
 ---
 
 - Ask Stephen about calendar share permissions
+- Look into Betaworks invitation
