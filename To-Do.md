@@ -26,6 +26,7 @@
 - [ ] Clear some items from home inbox
 - [ ] Reconcile the budget
 - [ ] Read Borthwick article and respond
+- [ ] Look into gym status
 
 ---
 
@@ -57,6 +58,7 @@
 - [ ] Process some inboxes (email, texts, physical)
 - [ ] Reconcile budget (overdue catch-up)
 - [ ] Lodge a￼ maintenance request for the drain
+- [ ] Call/email Buck Mason about my pants
 - [ ] Contact hotel & flights to get Telepath travel receipts
 - [x] Message Selin re: deposit return
 - [ ] Review Dees’ open-source endowment post
@@ -114,6 +116,7 @@ With Telepath:
 - Sort out Optus payments
 - Car repair: Serramonte Ford investigating mold
 - [[Telepath branding]]: decide on partner, respond to L&M, waiting on Nathaniel & Ricky quote
+- Get new size for Buck Mason pants 
 - Return deposit to Priyanka
 - Tax: meeting scheduled with Asena, check in status re: Maroof, Mina's tax file number
 - Wrap up Unternet: archive DigitalOcean server (!)
