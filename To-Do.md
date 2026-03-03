@@ -54,6 +54,7 @@
 - [ ] Respond to MozAlums Responsible AI thread
 - [ ] Process some inboxes (email, texts, physical)
 - [ ] Reconcile budget (overdue catch-up)
+- [ ] Lodge a￼ maintenance request for the drain
 - [ ] Contact hotel & flights to get Telepath travel receipts
 - [x] Message Selin re: deposit return
 - [ ] Review Dees’ open-source endowment post
