@@ -7,6 +7,7 @@
 	- [x] Push the latest stash
 - [x] Get basic Television working
 - [x] Set up the `lib` repos
+- [ ] - [ ] Pick up coat ($18 cash/cheque)
 - [ ] Reply to Dees
 - [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
@@ -16,7 +17,7 @@
 - [ ] Review videos from Josh
 - [ ] ==Start writing my article & newsletter==
 - [ ] Process photos from Sedona
-- [ ] Pick up coat ($18 cash/cheque)
+
 - [ ] Clear some items from home inbox
 
 ---
