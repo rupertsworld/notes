@@ -1,0 +1,4 @@
+- A [tweet](https://x.com/sekachov/status/2027087326221107379):
+	- "i have one upsetting observation: all the beautifully designed AI tools we’ve seen so far (dot, humane, cobot) were basically dead on arrival, while complex, highly technical products (claude code, openclaw) gain mass adoption in seconds.
+	- we're definitely missing something."
+	- Grubby Truffles win out in this phase over Gilded Turds.

@@ -1,0 +1,40 @@
+# Ideas
+
+- Dynamic interfaces
+- Biggest innovation in computing is metaphor
+- No one should live in Disneyland (about how our computers are like capitalized but nice looking prisons, and how after a while in Disneyland with a kid you go crazy as everything is capitalized and there's no parks)
+- [[Computational portability]]
+- [[Context portability]]
+- [[Content lenses]]
+- [[Strategy-based approach to cognitive kernels]]
+- High-context computing
+- Data minimization
+- Incentives around AGI (why people are making it sound imminent, firing staff for "AI" etc)
+- That schneiderman agents article
+- "Vibeliving" – inspired by [[Cofounder, work automation tool]]
+- Liquid glass as an example of why we need generative UI. Britt photos app. People sick of having their interfaces changed.
+- Story-based design
+- React but for everything. Declarative over imperative interaction. 
+- You can’t organize the world’s information when that information has perverse incentives that don’t include accuracy. 
+- Write a piece on the shitness of computers, and how understanding what you want really helps. But we also need platform change, something that is built for a mediated/user-agentic interface.
+- My thoughts on the future of [[Future of making software]]
+- Reducing complexity (to user these models)
+- [[Foundation models as cultural export]]
+- Mediated web
+- New type of software like Figma plugins
+- Legalese for code
+- Agents as people is skeuomorphism
+- Thick client
+- Apps as places vs. resources in a workspace
+- Intent-driven web
+- Swapping iPods on the bus
+- OpenAI and the money fountain (vs Google)
+- Agents schmagents
+- Stop calling it an agent
+- Sharing blobs of code with a really good isolation model, that has hooks for a model to use it – a post about what are the extensions, where should they live? Why are people into MCP? Is it important it's on a server or just that it has 
+- HIG for the mediated web ([[2025.03.12 Ryan Betts]])
+- Enchanted objects/enchanged workspace
+- [[Information commons]]
+- Free-range-eggs technology
+- The operator metaphor (vs. the many agents metaphor, mention Dunbar's number)
+- Phones as undignified, concept of dignity in technology

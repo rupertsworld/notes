@@ -1,0 +1,96 @@
+# Priorities
+
+- **Get demos ready** — Stash in good shape, Television needs styling, write overview tying prototypes to vision
+- **Next week: ship Stash + publish article** — both out by end of week
+- **Daily social practice** — write a post, engage with communities (Bluesky, MozAlums, etc.)
+
+# Actions
+
+- [ ] Finish writing notes for offsite
+- [ ] Write a journal summary for February
+- [ ] Reach out to Dees re: visiting in March (maybe with Stephen) — also review his [Open Source Endowment post](https://www.linkedin.com/feed/update/urn:li:activity:7432858017693528064/)
+- [ ] Review & respond to [Web Tiles as the base for Lexicon Embeds](https://discourse.atprotocol.community/t/web-tiles-as-the-base-for-lexicon-embeds/613) on AT Proto community
+- [ ] Review videos from Josh
+- [ ] Download more files from Digital Ocean server
+- [ ] Re-attempt sending cash to Priyanka
+- [ ] Review [jameesy thread](https://x.com/jameesy/status/2026628809424781787) re user research
+- [ ] Write up user interviews and add to group
+- [ ] Check with Stephen re: Camilo demo email (then email Camilo & CC Stephen)
+- [ ] Ask Stephen about calendar share permissions
+- [ ] Type up & summarize all user research
+- [ ] Read [Anil Dash article](https://www.anildash.com//2025/05/20/mcp-web20-20/) then write to him
+- [ ] Respond to Love & Money email (let them know re: branding direction)
+- [ ] Respond to MozAlums Responsible AI thread
+- [ ] Process some inboxes (email, texts, physical)
+- [ ] Reconcile budget (overdue catch-up)
+- [ ] Contact hotel & flights to get Telepath travel receipts
+- [ ] Message Selin re: deposit return
+- [ ] Contact Optus to cancel Mum's mobile number & deal with payment
+- [ ] Reach out to Robin Berjon (@robin.berjon.com) re: Telepath / Web Tiles – said "let's chat" in Bluesky thread
+- [ ] Send Josh [Lobster](https://docs.openclaw.ai/tools/lobster) link re workflows
+- [ ] Pull down remaining files from Unternet DigitalOcean server (then archive/shut down)
+- [ ] Read [this article](https://liquid-desktop.pages.dev/#liquid-desktop) & reply to John Borthwick
+- [ ] Read the tax memo
+- [ ] Call & cancel Hulu subscription
+- [ ] Reach out to Telepath user testing candidates (see [[Telepath user testing]])
+- [ ] Update and share [telepath-computer/lib](https://github.com/telepath-computer/lib)
+- [ ] Finish writing [future-stack.md](https://github.com/telepath-computer/company/blob/main/drafts/future-stack.md)
+- [ ] Start design work to spec the Obsidian plugin
+- [ ] Debug the Obsidian plugin
+- [ ] Get Stash ready for release (post-trip)
+- [ ] Get Television ready to demo
+- [ ] Start work on article
+
+At home:
+
+- [ ] Print latest insurance
+- [ ] Clear home inbox
+- [ ] Put suitcases in attic
+- [ ] Check out laundry light – figure out what's wrong
+
+With Izzi:
+
+- [ ] Discuss Survivor watch plan (not urgent — Sunday?)
+- [ ] La Dolce Vita activities
+
+With Telepath:
+
+- [ ] Ask Josh about places in Sedona
+
+# Waiting
+
+- [ ] Amex to lift hold on card
+- [ ] Car repair shop – investigating mold, we have a free rental in the meantime
+- [ ] Physical driver's licenses to arrive (renewed 2026-02-25, have temp licenses)
+- [ ] Nathaniel & Ricky – waiting for branding quote
+- [ ] Paul – interview rescheduling
+- [x] Priyanka – deposit didn't transfer, waiting to hear back
+- [ ] Iz – check if she signed up for Mina's parent-teacher conference (sign-up opened Feb 28; conferences Mar 19–20)
+
+# Projects
+
+- [[Telepath user testing]] – write up interviews, recruit testers
+	- Reschedule Paul & potentially Anish
+- Telepath design direction – finish future-stack.md, broader design work
+- Obsidian plugin – spec design work, debug
+- Meet with Yiliu – reschedule after missed meeting
+- Telepath side-projects – Stash, Television, Transponder
+- Wall calendar – need to work out the best way to mount
+- Laundry light – depends on what's wrong
+- Sort out Optus paymentscitty
+- Car – investigating mold (rental in meantime)
+- [[Telepath branding]] – decide on partner, respond to L&M, waiting on Nathaniel & Ricky quote
+- Return deposits – Selin (message her), Priyanka (waiting on her)
+- Mina's tax file number – discuss with Asena, need it for childcare claims
+- Tax – meeting scheduled with Asena, check in re: Maroof
+- Wrap up Unternet – archive DigitalOcean server (costing money!)
+- Immigration – recap process with Cammisa Markel, things went askew, need to find right approach
+
+## Reminders & habits
+
+- Follow up with Scott Jenson — keep the relationship warm
+- Keep the investor sheet updated
+- Stay visible & connected with community (socials, etc.)
+- Getting mental & physical health back on track
+- Regular budgeting
+- 5g daily creatine

@@ -1,0 +1,3 @@
+## Quotes
+
+Stored in `Clippings/` and formatted...

@@ -1,0 +1,43 @@
+# Miscellaneous
+
+- Locate my sash bag (back in Australia?)
+- Schedule a CRP/first aid course refresher
+- Look into rowing
+- Look into dance for Mina
+- Organize a holiday
+- Consider tooth caps for Mina
+- Do an interview with Mina
+- Look into & finalize heart stuff (history in garage, second opinion)
+- Organize another therapy session
+- Look into next steps for mental health
+- Do CERT in LA
+- Frame artworks in filing cabinet
+- Maybe archive iCloud Photos ([tool](https://github.com/icloud-photos-downloader/icloud_photos_downloader))
+- Get a little server
+- Write first blog post
+- Get Stefano's film music playlist
+- Get Reface DX from Found Sound (https://foundsound.com.au/products/2900)
+- Change profile pics
+- Write & send John Allsopp new bio and head shot
+- Write anecdotes for journal
+- Get back to the Personal notebook as primary
+- Fix the oracle
+- Get help setting up Thopter Swarm
+- Do social media course
+- Volunteering opportunities
+- Look into world cup
+- Kayaking with Xav
+- Follow up on baseball with Cass
+- Organize trip to Blue Mountains
+- Print photos (especially wedding album)
+- Find our vows
+- Emergency preparedness, go bag, conflict plans, NERT
+- Update family to-do list
+- Look into Hawaii with Iz
+- Find someone else to do the tax
+- Onboard properly with new insurance
+- Den Lennie video of dad — get the full copy (https://www.facebook.com/dennis.lennie/reels/)
+- Scan Izzi's passport once we get it back
+- Sell Loakes
+- Transition to a different digital camera setup (someday)
+
