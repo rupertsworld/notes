@@ -1,22 +1,47 @@
+# Today
+
+*Carnivale costume at La Scuola*
+
+- [ ] Finish work on `stash watch`
+	- [ ] Waiting for agent to complete
+	- [ ] Push the latest stash
+- [ ] Get basic Television working
+	- [ ] 
+- [ ] ==Do sketches for Obsidian plugin==
+- [ ] Process more items from my inbox
+- [ ] Cancel Aussie Broadband
+- [ ] ==Review outstanding payments==
+- [ ] Review Dees’ open-source endowment post & reply
+- [ ] Reconcile the budget
+- [ ] Review videos from Josh
+- [ ] Start writing my article & newsletter
+- [ ] Process photos from Sedona
+- [ ] Pick up coat ($18 cash/cheque)
+- [ ] Clear some items from home inbox
+
+---
+
 # Priorities
 
-- **Get demos ready** — Stash in good shape, Television needs styling, write overview tying prototypes to vision
-- **Next week: ship Stash + publish article** — both out by end of week
-- **Daily social practice** — write a post, engage with communities (Bluesky, MozAlums, etc.)
+- Sketch out Obsidian plugin & prototype Television
+- Ship Stash & publish article – both out by end of week
+- Engage with communities (Bluesky, MozAlums, etc.)
+- Return to fitness regime
 
 # Actions
 
-- [ ] Finish writing notes for offsite
 - [ ] Write a journal summary for February
 - [ ] Reach out to Dees re: visiting in March (maybe with Stephen) — also review his [Open Source Endowment post](https://www.linkedin.com/feed/update/urn:li:activity:7432858017693528064/)
 - [ ] Review & respond to [Web Tiles as the base for Lexicon Embeds](https://discourse.atprotocol.community/t/web-tiles-as-the-base-for-lexicon-embeds/613) on AT Proto community
+- [ ] Review status of tax return with Maroof
+- [ ] Find documents from Iz & schedule call with IRS
 - [ ] Review videos from Josh
+- [ ] Email Cammisa Markel for a recap meeting
 - [ ] Download more files from Digital Ocean server
 - [ ] Re-attempt sending cash to Priyanka
 - [ ] Review [jameesy thread](https://x.com/jameesy/status/2026628809424781787) re user research
 - [ ] Write up user interviews and add to group
 - [ ] Check with Stephen re: Camilo demo email (then email Camilo & CC Stephen)
-- [ ] Ask Stephen about calendar share permissions
 - [ ] Type up & summarize all user research
 - [ ] Read [Anil Dash article](https://www.anildash.com//2025/05/20/mcp-web20-20/) then write to him
 - [ ] Respond to Love & Money email (let them know re: branding direction)
@@ -43,9 +68,8 @@
 
 At home:
 
-- [ ] Print latest insurance
 - [ ] Clear home inbox
-- [ ] Put suitcases in attic
+- [x] Put suitcases in attic
 - [ ] Check out laundry light – figure out what's wrong
 
 With Izzi:
@@ -69,28 +93,21 @@ With Telepath:
 
 # Projects
 
-- [[Telepath user testing]] – write up interviews, recruit testers
+- [[Telepath user testing]]: write up interviews, recruit testers
 	- Reschedule Paul & potentially Anish
-- Telepath design direction – finish future-stack.md, broader design work
-- Obsidian plugin – spec design work, debug
-- Meet with Yiliu – reschedule after missed meeting
-- Telepath side-projects – Stash, Television, Transponder
-- Wall calendar – need to work out the best way to mount
-- Laundry light – depends on what's wrong
-- Sort out Optus paymentscitty
-- Car – investigating mold (rental in meantime)
-- [[Telepath branding]] – decide on partner, respond to L&M, waiting on Nathaniel & Ricky quote
-- Return deposits – Selin (message her), Priyanka (waiting on her)
-- Mina's tax file number – discuss with Asena, need it for childcare claims
-- Tax – meeting scheduled with Asena, check in re: Maroof
-- Wrap up Unternet – archive DigitalOcean server (costing money!)
-- Immigration – recap process with Cammisa Markel, things went askew, need to find right approach
+- Obsidian plugin: spec design work, debug
+- Meet with Yiliu: reschedule after missed meeting
+- Fix the printer
+- Telepath side-projects: Stash, Television (+ Transponder)
+- Fix the laundry light
+- Sort out Optus payments
+- Car repair: Serramonte Ford investigating mold
+- [[Telepath branding]]: decide on partner, respond to L&M, waiting on Nathaniel & Ricky quote
+- Return deposit to Priyanka
+- Tax: meeting scheduled with Asena, check in status re: Maroof, Mina's tax file number
+- Wrap up Unternet: archive DigitalOcean server (!)
+- Immigration: recap process with Cammisa Markel, things went askew, need to find right approach
 
-## Reminders & habits
+---
 
-- Follow up with Scott Jenson — keep the relationship warm
-- Keep the investor sheet updated
-- Stay visible & connected with community (socials, etc.)
-- Getting mental & physical health back on track
-- Regular budgeting
-- 5g daily creatine
+- Ask Stephen about calendar share permissions

@@ -1,4 +1,4 @@
-# Tickler
+# Timeline
 
 Items to action on or after a rough date. Review regularly and promote to `To-Do` and/or notify the user when the time comes.
 
