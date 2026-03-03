@@ -17,7 +17,7 @@
 - [ ] ==Start writing my article & newsletter==
 - [ ] Process photos from Sedona
 
-Evening:
+**Evening:**
 
 - [ ] Clear some items from home inbox
 - [ ] Reconcile the budget
