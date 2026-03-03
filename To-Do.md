@@ -2,9 +2,9 @@
 
 *Carnivale costume at La Scuola*
 
-- [ ] Finish work on `stash watch`
-	- [ ] Waiting for agent to complete
-	- [ ] Push the latest stash
+- [x] Finish work on `stash watch`
+	- [x] Waiting for agent to complete
+	- [x] Push the latest stash
 - [ ] Get basic Television working
 	- [ ] 
 - [ ] ==Do sketches for Obsidian plugin==
