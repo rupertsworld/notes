@@ -9,6 +9,7 @@
 - [x] Set up the `lib` repos
 - [ ] Pick up coat ($18 cash/cheque)
 - [ ] Reply to Dees
+- [ ] Review videos from Josh
 - [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] Cancel Aussie Broadband
