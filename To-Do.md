@@ -12,7 +12,6 @@
 - [ ] Review videos from Josh
 - [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
-- [ ] Cancel Aussie Broadband
 - [ ] ==Review outstanding payments==
 - [ ] Reconcile the budget
 - [ ] ==Start writing my article & newsletter==
