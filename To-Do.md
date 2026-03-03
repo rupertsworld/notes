@@ -14,7 +14,6 @@
 - [ ] Cancel Aussie Broadband
 - [ ] ==Review outstanding payments==
 - [ ] Reconcile the budget
-- [ ] Review videos from Josh
 - [ ] ==Start writing my article & newsletter==
 - [ ] Process photos from Sedona
 - [ ] Clear some items from home inbox
