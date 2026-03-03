@@ -14,7 +14,7 @@
 - [ ] Attempt to fix the printer
 - [ ] Cancel Aussie Broadband
 - [ ] Email Yiliu
-- [ ] Review videos from Josh
+- [x] Review videos from Josh
 - [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] ==Review outstanding payments==
