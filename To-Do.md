@@ -6,7 +6,7 @@
 	- [x] Waiting for agent to complete
 	- [x] Push the latest stash
 - [x] Get basic Television working
-- [ ] Set up the `lib` repo
+- [x] Set up the `lib` repo
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] Process more items from my inbox
 - [ ] Cancel Aussie Broadband
