@@ -16,6 +16,9 @@
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
 - [ ] Process photos from Sedona
+
+Evening:
+
 - [ ] Clear some items from home inbox
 - [ ] Reconcile the budget
 
