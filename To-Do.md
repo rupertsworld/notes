@@ -9,8 +9,8 @@
 	- [x] Push the latest stash
 - [x] Get basic Television working
 - [x] Set up the `lib` repos
-- [ ] Pick up coat ($18 cash/cheque)
-- [ ] Reply to Dees
+- [x] Pick up coat ($18 cash/cheque)
+- [x] Reply to Dees
 - [ ] Attempt to fix the printer
 - [ ] Cancel Aussie Broadband
 - [ ] Email Yiliu
