@@ -19,6 +19,7 @@
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
+- [ ] Create `live-spec` repo/specify
 - [ ] Process photos from Sedona
 
 **Evening:**
