@@ -7,7 +7,7 @@
 	- [x] Push the latest stash
 - [x] Get basic Television working
 - [x] Set up the `lib` repos
-- [ ] - [ ] Process more items from my inbox
+- [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] Cancel Aussie Broadband
 - [ ] ==Review outstanding payments==
