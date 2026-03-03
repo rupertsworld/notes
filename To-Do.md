@@ -11,10 +11,10 @@
 - [x] Set up the `lib` repos
 - [x] Pick up coat ($18 cash/cheque)
 - [x] Reply to Dees
+- [x] Review videos from Josh
 - [ ] Attempt to fix the printer
 - [ ] Cancel Aussie Broadband
 - [ ] Email Yiliu
-- [x] Review videos from Josh
 - [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] ==Review outstanding payments==
