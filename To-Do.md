@@ -7,11 +7,12 @@
 	- [x] Push the latest stash
 - [x] Get basic Television working
 - [x] Set up the `lib` repos
+- [ ] Reply to Dees
 - [ ] Process more items from my inbox
 - [ ] ==Do sketches for Obsidian plugin==
 - [ ] Cancel Aussie Broadband
 - [ ] ==Review outstanding payments==
-- [ ] Review Dees’ open-source endowment post & reply
+- [ ] Review Dees’ open-source endowment post
 - [ ] Reconcile the budget
 - [ ] Review videos from Josh
 - [ ] Start writing my article & newsletter
