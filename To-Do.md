@@ -4,6 +4,8 @@
 - **Next week: ship Stash + publish article** — both out by end of week
 - **Daily social practice** — write a post, engage with communities (Bluesky, MozAlums, etc.)
 
+Hello!
+
 # Actions
 
 - [ ] Finish writing notes for offsite
