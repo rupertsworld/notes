@@ -14,7 +14,7 @@
 - [ ] ==Review outstanding payments==
 - [ ] Reconcile the budget
 - [ ] Review videos from Josh
-- [ ] Start writing my article & newsletter
+- [ ] ==Start writing my article & newsletter==
 - [ ] Process photos from Sedona
 - [ ] Pick up coat ($18 cash/cheque)
 - [ ] Clear some items from home inbox
