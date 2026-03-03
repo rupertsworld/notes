@@ -2,7 +2,8 @@
 
 *Carnivale costume at La Scuola*
 
-**Today**
+**Today:**
+
 - [x] Finish work on `stash watch`
 	- [x] Waiting for agent to complete
 	- [x] Push the latest stash
