@@ -93,7 +93,7 @@ With Izzi:
 With Telepath:
 
 - [ ] Ask Josh about the places we went in Sedona
-- [ ] 
+- [ ] Wr
 
 # Waiting
 
