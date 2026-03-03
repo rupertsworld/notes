@@ -107,6 +107,7 @@ With Telepath:
 - Fix the printer
 - Telepath side-projects: Stash, Television (+ Transponder)
 - Fix the laundry light
+- Unclog the drain
 - Sort out Optus payments
 - Car repair: Serramonte Ford investigating mold
 - [[Telepath branding]]: decide on partner, respond to L&M, waiting on Nathaniel & Ricky quote
