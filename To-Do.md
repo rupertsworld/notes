@@ -99,8 +99,7 @@ With Telepath:
 - Stash: basically ready — use with team for a bit, then write release
 - Fix the printer (see [[Brother HL-L3220CDW]])
 - Television: close to demo — styling + agent UI sketches next
-- Fix the laundry light
-- Unclog the drain
+- Household fix-it list (plumber for drain, laundry light, wall calendar, canopy)
 - Sort out Optus payments
 - Car repair: Serramonte Ford investigating mold
 - [[Telepath branding]]: decide on partner, respond to L&M, waiting on Nathaniel & Ricky quote
