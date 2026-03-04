@@ -5,7 +5,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 **Core work:**
 
 - [ ] <u>Start writing article & newsletter</u>
-	- [ ] Decide on topic first — that determines next steps
+	- [ ] Decide on topic first (then determine next steps)
 - [ ] <u>Work on Television</u>
 	- [ ] Do some sketches for first iteration of this
 	- [ ] Improve styling & basic functionality
