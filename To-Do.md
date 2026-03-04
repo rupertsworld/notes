@@ -15,6 +15,7 @@
 - [x] ==Do sketches for Obsidian plugin==
 - [x] Cancel Aussie Broadband
 - [x] Merge fixes from Josh
+- [ ] Process some tabs
 - [ ] Finish final bug fixes for `stash`
 - [ ] Attempt to fix the printer
 - [ ] Email Yiliu
