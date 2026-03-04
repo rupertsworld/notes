@@ -5,6 +5,7 @@
 ## Future directions
 
 - Perhaps a move to the social web/AT world? Would need to keep in touch with them.
+- Make small, well-crafted open source UI packages — little bits of beautiful UI. Plays to design strengths. Inspired by someone's web vibration package that did high-quality haptics.
 
 ## Potential opportunities
 
