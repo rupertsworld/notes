@@ -1,6 +1,11 @@
 # Timeline
 
-Items to action on or after a rough date. Review regularly and promote to `To-Do` and/or notify the user when the time comes.
+Items to action on or after a rough date, plus things coming up next. Review regularly and promote to `To-Do` and/or notify the user when the time comes.
+
+## Next up
+
+- Ask Stephen about calendar share permissions
+- Look into Betaworks invitation
 
 ## March 2026
 
