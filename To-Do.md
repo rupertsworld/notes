@@ -39,7 +39,7 @@
 
 # Actions
 
-- [ ] ==Creat
+- [ ] ==Create sketches for agent UI==
 - [ ] Process photos from Sedona
 - [ ] Read Borthwick article and respond
 - [ ] Write a journal summary for February
