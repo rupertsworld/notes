@@ -4,11 +4,11 @@ Two big creative blocks today: start the article draft, and do agent UI sketches
 
 **Core work:**
 
-- [ ] <u>Start writing article & newsletter</u>
-	- [ ] Decide on topic first (then determine next steps)
 - [ ] <u>Work on Television</u>
 	- [ ] Do some sketches for first iteration of this
 	- [ ] Improve styling & basic functionality
+- [ ] <u>Start writing article & newsletter</u>
+	- [ ] Decide on topic first (then determine next steps)
 
 **Small things:**
 
