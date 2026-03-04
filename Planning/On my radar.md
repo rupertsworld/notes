@@ -16,6 +16,6 @@ Items to action on or after a rough date, plus things coming up next. Review reg
 
 - Start repaying Dad's loan (AU$15k)
 
-## May 2026
+## May
 
 - Check out [.agent TLD](https://agentcommunity.org/about)
