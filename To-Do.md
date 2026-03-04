@@ -21,12 +21,8 @@ Wednesday, March 4. Open morning and afternoon until gym at 4pm, then Mina pick-
 
 # Actions
 
-- [ ] ==Create sketches for agent UI==
-- [ ] ==Review outstanding payments==
-- [ ] ==Start writing my article & newsletter==
 - [ ] Email Yiliu
 - [ ] Reply to messages
-- [ ] Reply to Dees re: visiting in March (maybe with Stephen) — also review his [Open Source Endowment post](https://www.linkedin.com/feed/update/urn:li:activity:7432858017693528064/)
 - [ ] Create `live-spec` repo/specify
 - [ ] Clear some items from home inbox
 - [ ] Look into gym status
@@ -45,7 +41,6 @@ Wednesday, March 4. Open morning and afternoon until gym at 4pm, then Mina pick-
 - [ ] Check with Stephen re: Camilo demo email (then email Camilo & CC Stephen)
 - [ ] Type up & summarize all user research
 - [ ] Read [Anil Dash article](https://www.anildash.com//2025/05/20/mcp-web20-20/) then write to him
-- [ ] Respond to Love & Money email (let them know re: branding direction)
 - [ ] Respond to MozAlums Responsible AI thread
 - [ ] Process some inboxes (email, texts, physical)
 - [ ] Reconcile budget (overdue catch-up)
