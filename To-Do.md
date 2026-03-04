@@ -58,9 +58,7 @@ Wednesday, March 4. Open morning and afternoon until gym at 4pm, then Mina pick-
 - [ ] Debug the Obsidian plugin
 - [ ] Get Stash ready for release (post-trip)
 - [ ] Get Television ready to demo
-- [ ] Start work on article
 - [ ] Call Serramonte Ford re: car mold update
-- [ ] Check on Paul re: interview rescheduling
 
 At home:
 
