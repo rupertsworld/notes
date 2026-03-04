@@ -1,25 +1,13 @@
 # Today
 
-*Carnivale costume at La Scuola*
+*Wednesday, March 4 — open morning for deep work, gym at 4, Mina pick-up at 5.*
 
-**Workday:**
+Focus today on writing (article & newsletter), agent UI sketches, and finishing the budget. Everything else can wait.
 
-- [x] Finish work on `stash watch`
-	- [x] Waiting for agent to complete
-	- [x] Push the latest stash
-- [x] Get basic Television working
-- [x] Set up the `lib` repos
-- [x] Pick up coat ($18 cash/cheque)
-- [x] Reply to Dees
-- [x] Review videos from Josh
-- [x] ==Do sketches for Obsidian plugin==
-- [x] Cancel Aussie Broadband
-- [x] Merge fixes from Josh
-- [x] Process some tabs
-- [x] Finish final bug fixes for `stash`
-- [x] Attempt to fix the printer
-- [x] Reconcile the budget
-- [x] Process more items from my inbox
+- [ ] ==Start writing my article & newsletter==
+- [ ] ==Create sketches for agent UI==
+- [ ] ==Review outstanding payments== + finish budget reconciliation
+- [ ] Gym (4–5pm)
 
 ---
 
@@ -37,20 +25,19 @@
 - [ ] ==Start writing my article & newsletter==
 - [ ] Email Yiliu
 - [ ] Reply to messages
+- [ ] Reply to Dees re: visiting in March (maybe with Stephen) — also review his [Open Source Endowment post](https://www.linkedin.com/feed/update/urn:li:activity:7432858017693528064/)
 - [ ] Create `live-spec` repo/specify
 - [ ] Clear some items from home inbox
 - [ ] Look into gym status
 - [ ] Pack away washing
 - [ ] Process photos from Sedona
-- [ ] Read Borthwick article and respond
+- [ ] Read [Borthwick article](https://liquid-desktop.pages.dev/#liquid-desktop) & reply to John Borthwick
 - [ ] Write a journal summary for February
-- [ ] Reach out to Dees re: visiting in March (maybe with Stephen) — also review his [Open Source Endowment post](https://www.linkedin.com/feed/update/urn:li:activity:7432858017693528064/)
 - [ ] Review & respond to [Web Tiles as the base for Lexicon Embeds](https://discourse.atprotocol.community/t/web-tiles-as-the-base-for-lexicon-embeds/613) on AT Proto community
 - [ ] Review status of tax return with Maroof
 - [ ] Find documents from Iz & schedule call with IRS
-- [ ] Review videos from Josh
 - [ ] Email Cammisa Markel for a recap meeting
-- [ ] Download more files from Digital Ocean server
+- [ ] Pull down remaining files from Unternet DigitalOcean server (then archive/shut down)
 - [ ] Re-attempt sending cash to Priyanka
 - [ ] Review [jameesy thread](https://x.com/jameesy/status/2026628809424781787) re user research
 - [ ] Write up user interviews and add to group
@@ -61,16 +48,12 @@
 - [ ] Respond to MozAlums Responsible AI thread
 - [ ] Process some inboxes (email, texts, physical)
 - [ ] Reconcile budget (overdue catch-up)
-- [ ] Lodge a￼ maintenance request for the drain
+- [ ] Lodge a maintenance request for the drain
 - [ ] Call/email Buck Mason about my pants
 - [ ] Contact hotel & flights to get Telepath travel receipts
-- [x] Message Selin re: deposit return
-- [ ] Review Dees’ open-source endowment post
 - [ ] Contact Optus to cancel Mum's mobile number & deal with payment
 - [ ] Reach out to Robin Berjon (@robin.berjon.com) re: Telepath / Web Tiles – said "let's chat" in Bluesky thread
 - [ ] Send Josh [Lobster](https://docs.openclaw.ai/tools/lobster) link re workflows
-- [ ] Pull down remaining files from Unternet DigitalOcean server (then archive/shut down)
-- [ ] Read [this article](https://liquid-desktop.pages.dev/#liquid-desktop) & reply to John Borthwick
 - [ ] Read the tax memo
 - [ ] Call & cancel Hulu subscription
 - [ ] Reach out to Telepath user testing candidates (see [[Telepath user testing]])
@@ -81,11 +64,12 @@
 - [ ] Get Stash ready for release (post-trip)
 - [ ] Get Television ready to demo
 - [ ] Start work on article
+- [ ] Call Serramonte Ford re: car mold update
+- [ ] Check on Paul re: interview rescheduling
 
 At home:
 
 - [ ] Clear home inbox
-- [x] Put suitcases in attic
 - [ ] Check out laundry light – figure out what's wrong
 
 With Izzi:
@@ -102,23 +86,19 @@ With Telepath:
 # Waiting
 
 - [ ] Amex to lift hold on card
-- [ ] Dees re: meeting up times
 - [ ] Printer ink to arrive
 - [ ] Car repair shop – investigating mold, we have a free rental in the meantime
 - [ ] Physical driver's licenses to arrive (renewed 2026-02-25, have temp licenses)
 - [ ] Nathaniel & Ricky – waiting for branding quote
 - [ ] Paul – interview rescheduling
-- [ ] Josh re: race condition fixes
-- [x] Priyanka – deposit didn't transfer, waiting to hear back
-- [ ] Iz – check if she signed up for Mina's parent-teacher conference (sign-up opened Feb 28; conferences Mar 19–20)
 
 # Projects
 
 - [[Telepath user testing]]: write up interviews, recruit testers
 	- Reschedule Paul & potentially Anish
 - Obsidian plugin: spec design work, debug
-- Meet with Yiliu: reschedule after missed meeting
-- Stash: race condition fixes from Josh
+- Meet with Yiliu: reschedule after missed meeting
+- Stash: get ready for release
 - Fix the printer (see [[Brother HL-L3220CDW]])
 - Telepath side-projects: Stash, Television (+ Transponder)
 - Fix the laundry light
@@ -126,7 +106,7 @@ With Telepath:
 - Sort out Optus payments
 - Car repair: Serramonte Ford investigating mold
 - [[Telepath branding]]: decide on partner, respond to L&M, waiting on Nathaniel & Ricky quote
-- Get new size for Buck Mason pants 
+- Get new size for Buck Mason pants
 - Return deposit to Priyanka
 - Tax: meeting scheduled with Asena, check in status re: Maroof, Mina's tax file number
 - Wrap up Unternet: archive DigitalOcean server (!)
