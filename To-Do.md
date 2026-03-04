@@ -16,14 +16,11 @@
 - [ ] Cancel Aussie Broadband
 - [ ] Email Yiliu
 - [ ] Process more items from my inbox
-- [ ] ==Do sketches for Obsidian plugin==
+- [x] ==Do sketches for Obsidian plugin==
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
 - [ ] Create `live-spec` repo/specify
 - [ ] Process photos from Sedona
-
-**Evening:**
-
 - [ ] Clear some items from home inbox
 - [ ] Reconcile the budget
 - [ ] Read Borthwick article and respond
