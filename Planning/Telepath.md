@@ -13,5 +13,10 @@
 - Do something with Obsidian CLI
 - Experiment with Letta (incl. Obsidian plugin)
 - Consider strategy sprint with Izzi (social media / outreach for Telepath)
-- ==Experiment with background agent execution== — dispatch agents, track running jobs, worktree support for git repos (see [[Open agent stack]])
-- ==Experiment with agent cron/jobs system== — scheduled background agents, file-watch triggers (see [[Open agent stack]])
+
+## Open agent stack
+
+Internal experiments that overlap with future Telepath product areas — orchestration, agent infra, developer tooling. Could become products, open source packages, or just part of the company OS.
+
+- [[Agent background execution]] — dispatch and track background agents, with disposable git worktree support
+- [[Agent cron and scheduled jobs]] — scheduled background agents triggered by cron or file changes
