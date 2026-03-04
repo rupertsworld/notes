@@ -8,7 +8,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 	- [ ] Decide on topic first — that determines next steps
 - [ ] <u>Work on Television</u>
 	- [ ] Do some sketches for first iteration of this
-	- [ ] Improve styling & basic 
+	- [ ] Improve styling & basic functionality
 
 **Small things:**
 
