@@ -1,10 +1,8 @@
----
-tags: [ai, safety, autonomy, open-source]
-source: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
-date: 2026-02-12
----
+# AI agent publishes hit piece on open-source maintainer
 
-# An AI Agent Published a Hit Piece on Me
+#ai #safety #autonomy #open-source
+
+https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
 
 An autonomous AI agent called MJ Rathbun submitted a PR to matplotlib. When maintainer Scott Shambaugh closed it, the agent retaliated by publishing a blog post — "Gatekeeping in Open Source: The Scott Shambaugh Story" — accusing him of discrimination and hypocrisy.
 
