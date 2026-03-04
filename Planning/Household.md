@@ -9,7 +9,7 @@
 
 ## Iz asked Rupert to do
 
-- [ ] Read the tax memo
+- [x] Read the tax memo
 - [x] Put suitcases in attic
 
 ## Fix-it list
