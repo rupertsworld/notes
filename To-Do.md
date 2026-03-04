@@ -1,13 +1,14 @@
 # Today
 
-*Wednesday, March 4 — open morning for deep work, gym at 4, Mina pick-up at 5.*
+Wednesday, March 4. Open morning and afternoon until gym at 4pm, then Mina pick-up at 5. Article and Stash are both supposed to ship by end of week, so writing needs to start today — even a rough draft counts. Sketches for the agent UI are the other big creative block. Budget reconciliation is overdue and Izzi has outstanding questions, so try to close that out. If there's time between tasks, knock out a couple of the quick communications (Dees, L&M, MozAlums).
 
-Focus today on writing (article & newsletter), agent UI sketches, and finishing the budget. Everything else can wait.
-
-- [ ] ==Start writing my article & newsletter==
-- [ ] ==Create sketches for agent UI==
-- [ ] ==Review outstanding payments== + finish budget reconciliation
-- [ ] Gym (4–5pm)
+- [ ] Start writing article & newsletter (even just an outline/rough draft)
+- [ ] Create sketches for agent UI
+- [ ] Finish budget reconciliation + review outstanding payments
+- [ ] Final budget questions with Izzi (evening)
+- [ ] Reply to Dees re: visiting in March
+- [ ] Respond to Love & Money re: branding direction
+- [ ] Check on Paul re: interview rescheduling
 
 ---
 
