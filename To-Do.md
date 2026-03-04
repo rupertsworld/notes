@@ -33,6 +33,13 @@
 # Actions
 
 - [ ] ==Create sketches for agent UI==
+- [ ] - [ ] ==Review outstanding payments==
+- [ ] ==Start writing my article & newsletter==
+- [ ] Email Yiliu
+- [ ] Create `live-spec` repo/specify
+- [ ] Clear some items from home inbox
+- [ ] Look into gym status
+- [ ] Pack away washing
 - [ ] Process photos from Sedona
 - [ ] Read Borthwick article and respond
 - [ ] Write a journal summary for February
