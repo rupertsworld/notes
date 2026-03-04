@@ -25,6 +25,7 @@
 - [ ] Reconcile the budget
 - [ ] Read Borthwick article and respond
 - [ ] Look into gym status
+- [ ] Pack away washing
 
 ---
 
