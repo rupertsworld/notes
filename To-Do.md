@@ -91,7 +91,7 @@ With Telepath:
 	- Reschedule Paul & potentially Anish
 - Obsidian plugin: spec design work, debug
 - Meet with Yiliu: reschedule after missed meeting
-- Stash: get ready for release
+- Stash: basically ready — use with team for a bit, then write release
 - Fix the printer (see [[Brother HL-L3220CDW]])
 - Telepath side-projects: Stash, Television (+ Transponder)
 - Fix the laundry light
