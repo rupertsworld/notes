@@ -39,7 +39,7 @@
 
 # Actions
 
-- [ ] ==P
+- [ ] ==Creat
 - [ ] Process photos from Sedona
 - [ ] Read Borthwick article and respond
 - [ ] Write a journal summary for February
