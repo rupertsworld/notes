@@ -101,6 +101,7 @@ With Telepath:
 
 - [ ] Amex to lift hold on card
 - [ ] Dees re: meeting up times
+- [ ] Printer to arrive
 - [ ] Car repair shop – investigating mold, we have a free rental in the meantime
 - [ ] Physical driver's licenses to arrive (renewed 2026-02-25, have temp licenses)
 - [ ] Nathaniel & Ricky – waiting for branding quote
