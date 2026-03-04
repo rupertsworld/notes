@@ -2,8 +2,9 @@
 
 Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start the article draft, and do agent UI sketches. Budget is overdue — close it out with Izzi tonight. Quick comms if there's space.
 
-- [ ] ==Start writing article & newsletter== (even just an outline/rough draft)
-- [ ] ==Create sketches for agent UI==
+- [ ] ==Start writing article & newsletter==
+	- [ ] Decide on topic first — that determines next steps
+- [ ] ==Create sketches for agent UI / Television styling==
 - [ ] ==Finish budget reconciliation + review outstanding payments==
 - [ ] ==Final budget questions with Izzi== (evening)
 - [ ] Reply to Dees re: visiting in March
