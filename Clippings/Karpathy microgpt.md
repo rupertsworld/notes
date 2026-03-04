@@ -2,5 +2,6 @@
 #ai
 
 https://karpathy.github.io/2026/02/12/microgpt/
+Code: https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95
 
 A 200-line, zero-dependency Python script that trains and runs a GPT from scratch — autograd, transformer, training loop, and inference. 4,192 parameters that work the same way as billions-parameter models. The point: there's no magic, just next-token prediction and gradient descent at different scales.
