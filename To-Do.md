@@ -12,7 +12,6 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 
 **Small things:**
 
-- [ ] Iz: discuss final budget questions
 - [ ] Email Yiliu
 - [ ] Reply to Dees re: visiting in March
 - [ ] Respond to Love & Money re: branding direction
@@ -24,6 +23,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 **Home:**
 
 - [ ] Pack away washing
+- [ ] Iz: discuss final budget questions
 
 ---
 
