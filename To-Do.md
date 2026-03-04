@@ -20,9 +20,9 @@
 - [x] Attempt to fix the printer
 - [x] Reconcile the budget
 - [x] Process more items from my inbox
-- [ ] Email Yiliu
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
+- [ ] Email Yiliu
 - [ ] Create `live-spec` repo/specify
 - [ ] Clear some items from home inbox
 - [ ] Look into gym status
