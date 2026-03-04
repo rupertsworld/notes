@@ -1,6 +1,6 @@
 # Today
 
-Wednesday, March 4. Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start the article draft, and do agent UI sketches. Budget is overdue — close it out with Izzi tonight. Quick comms if there's space.
+Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start the article draft, and do agent UI sketches. Budget is overdue — close it out with Izzi tonight. Quick comms if there's space.
 
 - [ ] ==Start writing article & newsletter== (even just an outline/rough draft)
 - [ ] ==Create sketches for agent UI==
