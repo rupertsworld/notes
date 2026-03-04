@@ -111,7 +111,7 @@ With Telepath:
 	- Reschedule Paul & potentially Anish
 - Obsidian plugin: spec design work, debug
 - Meet with Yiliu: reschedule after missed meeting
-- Stash: ra
+- Stash: race conditi
 - Fix the printer
 - Telepath side-projects: Stash, Television (+ Transponder)
 - Fix the laundry light
