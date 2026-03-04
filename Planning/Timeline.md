@@ -4,6 +4,7 @@ Items to action on or after a rough date. Review regularly and promote to `To-Do
 
 ## March 2026
 
+- Investigate Delaware payment for Desktop Metaphors (~March 9)
 - Ensure Stephen is working on next investor update (~March 22)
 
 ## April 2026
