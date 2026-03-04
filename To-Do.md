@@ -18,13 +18,13 @@
 - [x] Process some tabs
 - [ ] Finish final bug fixes for `stash`
 - [ ] Attempt to fix the printer
+- [ ] Reconcile the budget
 - [ ] Email Yiliu
 - [ ] Process more items from my inbox
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
 - [ ] Create `live-spec` repo/specify
 - [ ] Clear some items from home inbox
-- [ ] Reconcile the budget
 - [ ] Look into gym status
 - [ ] Pack away washing
 
