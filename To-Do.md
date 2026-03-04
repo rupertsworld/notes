@@ -53,7 +53,7 @@ Two big creative blocks today: start the article draft, and do agent UI sketches
 - [ ] Type up & summarize all user research
 - [ ] Read [Anil Dash article](https://www.anildash.com//2025/05/20/mcp-web20-20/) then write to him
 - [ ] Process some inboxes (email, texts, physical)
-- [ ] Lodge a maintenance request for the drain
+- [ ] Lodge a maintenance request for the plumber (drain is blocked)
 - [ ] Call/email Buck Mason about my pants
 - [ ] Contact hotel & flights to get Telepath travel receipts
 - [ ] Contact Optus to cancel Mum's mobile number & deal with payment
