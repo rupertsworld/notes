@@ -4,6 +4,7 @@ Items to action on or after a rough date, plus things coming up next. Review reg
 
 ## Up next
 
+- Pick one of the open agent stack side-projects to start experimenting with ([[Agent background execution]], [[Agent cron and scheduled jobs]], [[Agent context hub]])
 - Investigate Delaware payment for Desktop Metaphors
 - Ask Stephen about calendar share permissions
 - Look into Betaworks invitation
