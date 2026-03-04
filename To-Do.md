@@ -21,7 +21,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] Re-attempt sending cash to Priyanka
 - [ ] Respond to MozAlums Responsible AI thread
 
-
+**Home:**
 
 - [ ] Pack away washing
 
