@@ -16,9 +16,9 @@
 - [x] Cancel Aussie Broadband
 - [x] Merge fixes from Josh
 - [x] Process some tabs
-- [ ] Finish final bug fixes for `stash`
+- [x] Finish final bug fixes for `stash`
 - [x] Attempt to fix the printer
-- [ ] Reconcile the budget
+- [x] Reconcile the budget
 - [ ] Email Yiliu
 - [ ] Process more items from my inbox
 - [ ] ==Review outstanding payments==
