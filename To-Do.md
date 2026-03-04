@@ -24,7 +24,6 @@
 - [ ] Process photos from Sedona
 - [ ] Clear some items from home inbox
 - [ ] Reconcile the budget
-
 - [ ] Look into gym status
 - [ ] Pack away washing
 
