@@ -16,6 +16,6 @@
 
 - [ ] Plumber — lodge maintenance request, drain is blocked
 - [ ] Laundry light — check out what's wrong
-- [ ] Wall calendar — work out how to mount
+- [x] Wall calendar — work out how to mount
 - [ ] Car — investigating mold (rental in meantime)
 - [ ] Repair canopy
