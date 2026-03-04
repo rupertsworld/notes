@@ -4,6 +4,7 @@ Items to action on or after a rough date, plus things coming up next. Review reg
 
 ## Next up
 
+- Investigate Delaware payment for Desktop Metaphors
 - Ask Stephen about calendar share permissions
 - Look into Betaworks invitation
 
