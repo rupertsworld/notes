@@ -12,11 +12,11 @@
 - [x] Pick up coat ($18 cash/cheque)
 - [x] Reply to Dees
 - [x] Review videos from Josh
+- [x] ==Do sketches for Obsidian plugin==
 - [ ] Attempt to fix the printer
 - [ ] Cancel Aussie Broadband
 - [ ] Email Yiliu
 - [ ] Process more items from my inbox
-- [x] ==Do sketches for Obsidian plugin==
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
 - [ ] Create `live-spec` repo/specify
