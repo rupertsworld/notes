@@ -8,11 +8,11 @@ Items to action on or after a rough date, plus things coming up next. Review reg
 - Ask Stephen about calendar share permissions
 - Look into Betaworks invitation
 
-## March 2026
+## March
 
 - Ensure Stephen is working on next investor update (~March 22)
 
-## April 2026
+## April
 
 - Start repaying Dad's loan (AU$15k)
 
