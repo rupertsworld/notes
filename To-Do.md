@@ -11,6 +11,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] Respond to Love & Money re: branding direction
 - [ ] Check on Paul re: interview rescheduling
 - [ ] Process photos from Sedona
+- [ ] Re-attempt sending cash to Priyanka
 
 ---
 
