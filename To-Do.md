@@ -3,6 +3,7 @@
 Two big creative blocks today: start the article draft, and do agent UI sketches. Budget is overdue — close it out with Izzi tonight. Quick comms if there's space.
 
 4pm: Gym
+5pm: 
 
 **Core work:**
 
