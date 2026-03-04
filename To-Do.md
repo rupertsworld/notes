@@ -101,6 +101,7 @@ With Telepath:
 - [ ] Physical driver's licenses to arrive (renewed 2026-02-25, have temp licenses)
 - [ ] Nathaniel & Ricky – waiting for branding quote
 - [ ] Paul – interview rescheduling
+- [ ] Merge 
 - [x] Priyanka – deposit didn't transfer, waiting to hear back
 - [ ] Iz – check if she signed up for Mina's parent-teacher conference (sign-up opened Feb 28; conferences Mar 19–20)
 
