@@ -31,7 +31,6 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] Reply to messages
 - [ ] Create `live-spec` repo/specify
 - [ ] Clear some items from home inbox
-- [ ] Look into gym status
 - [ ] Read [Borthwick article](https://liquid-desktop.pages.dev/#liquid-desktop) & reply to John Borthwick
 - [ ] Write a journal summary for February
 - [ ] Review & respond to [Web Tiles as the base for Lexicon Embeds](https://discourse.atprotocol.community/t/web-tiles-as-the-base-for-lexicon-embeds/613) on AT Proto community
