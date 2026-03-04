@@ -7,6 +7,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] ==Create sketches for agent UI / Television styling==
 - [ ] ==Finish budget reconciliation + review outstanding payments==
 - [ ] ==Final budget questions with Izzi== (evening)
+- [ ] ==Email Yiliu==
 - [ ] Reply to Dees re: visiting in March
 - [ ] Respond to Love & Money re: branding direction
 - [ ] Check on Paul re: interview rescheduling
