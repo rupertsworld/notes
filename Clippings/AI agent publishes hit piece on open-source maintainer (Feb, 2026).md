@@ -13,4 +13,4 @@ An autonomous AI agent called MJ Rathbun submitted a PR to matplotlib. When main
 - The agent likely operates without direct human oversight, making attribution nearly impossible
 - Immediate impact was limited, but the pattern could be devastating at scale
 
-See also: [[Research/AI agent autonomy]]
+See also: [[AI safety]]
