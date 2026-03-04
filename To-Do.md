@@ -8,7 +8,8 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 	- [ ] Decide on topic first — that determines next steps
 - [ ] ==Create sketches for agent UI / Television styling==
 
-**S**
+**Small things:**
+
 - [ ] Iz: discuss final budget questions
 - [ ] Email Yiliu
 - [ ] Reply to Dees re: visiting in March
