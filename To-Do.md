@@ -4,7 +4,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 
 **Core work:**
 
-- [ ] ==Start writing article & newsletter==
+- [ ] Start writing article & newsletter
 	- [ ] Decide on topic first — that determines next steps
 - [ ] Create sketches for agent UI / Television styling
 
