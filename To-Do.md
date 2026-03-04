@@ -93,7 +93,7 @@ With Telepath:
 - Meet with Yiliu: reschedule after missed meeting
 - Stash: basically ready — use with team for a bit, then write release
 - Fix the printer (see [[Brother HL-L3220CDW]])
-- Telepath side-projects: Stash, Television (+ Transponder)
+- Television: close to demo — styling + agent UI sketches next
 - Fix the laundry light
 - Unclog the drain
 - Sort out Optus payments
