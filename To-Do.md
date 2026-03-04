@@ -43,7 +43,6 @@ Wednesday, March 4. Open morning and afternoon until gym at 4pm, then Mina pick-
 - [ ] Read [Anil Dash article](https://www.anildash.com//2025/05/20/mcp-web20-20/) then write to him
 - [ ] Respond to MozAlums Responsible AI thread
 - [ ] Process some inboxes (email, texts, physical)
-- [ ] Reconcile budget (overdue catch-up)
 - [ ] Lodge a maintenance request for the drain
 - [ ] Call/email Buck Mason about my pants
 - [ ] Contact hotel & flights to get Telepath travel receipts
