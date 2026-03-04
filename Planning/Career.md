@@ -1,9 +1,6 @@
 ## Soon
 
 - Get involved with W3C, MCP-UI working group, etc. ([[Standards participation]])
-
-## Soon
-
 - Make small, well-crafted open source UI packages — little bits of beautiful UI. Plays to design strengths. Inspired by someone's web vibration package that did high-quality haptics.
 
 ## Future directions
