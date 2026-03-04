@@ -2,8 +2,6 @@
 
 Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start the article draft, and do agent UI sketches. Budget is overdue — close it out with Izzi tonight. Quick comms if there's space.
 
-- [ ] Look into gym status (is subscription active?)
-
 **Core work:**
 
 - [ ] ==Start writing article & newsletter==
@@ -12,6 +10,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 
 **Small things:**
 
+- [ ] Look into gym status (is subscription active?)
 - [ ] Email Yiliu
 - [ ] Reply to Dees re: visiting in March
 - [ ] Respond to Love & Money re: branding direction
