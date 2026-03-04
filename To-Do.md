@@ -17,7 +17,7 @@
 - [x] Merge fixes from Josh
 - [x] Process some tabs
 - [ ] Finish final bug fixes for `stash`
-- [ ] Attempt to fix the printer
+- [x] Attempt to fix the printer
 - [ ] Reconcile the budget
 - [ ] Email Yiliu
 - [ ] Process more items from my inbox
