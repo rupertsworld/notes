@@ -50,7 +50,6 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] Contact Optus to cancel Mum's mobile number & deal with payment
 - [ ] Reach out to Robin Berjon (@robin.berjon.com) re: Telepath / Web Tiles – said "let's chat" in Bluesky thread
 - [ ] Send Josh [Lobster](https://docs.openclaw.ai/tools/lobster) link re workflows
-- [ ] Read the tax memo
 - [ ] Call & cancel Hulu subscription
 - [ ] Reach out to Telepath user testing candidates (see [[Telepath user testing]])
 - [ ] Update and share [telepath-computer/lib](https://github.com/telepath-computer/lib)
