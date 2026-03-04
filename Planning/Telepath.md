@@ -20,3 +20,4 @@ Internal experiments that overlap with future Telepath product areas — orchest
 
 - [[Agent background execution]] — dispatch and track background agents, with disposable git worktree support
 - [[Agent cron and scheduled jobs]] — scheduled background agents triggered by cron or file changes
+- [[Agent context hub]] — CLI/app to connect data sources (mail, calendar, files, MCP servers) and sync across agents with scoped profiles
