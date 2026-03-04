@@ -43,7 +43,6 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] Check with Stephen re: Camilo demo email (then email Camilo & CC Stephen)
 - [ ] Type up & summarize all user research
 - [ ] Read [Anil Dash article](https://www.anildash.com//2025/05/20/mcp-web20-20/) then write to him
-- [ ] Respond to MozAlums Responsible AI thread
 - [ ] Process some inboxes (email, texts, physical)
 - [ ] Lodge a maintenance request for the drain
 - [ ] Call/email Buck Mason about my pants
