@@ -23,7 +23,6 @@
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
 - [ ] Create `live-spec` repo/specify
-- [ ] Process photos from Sedona
 - [ ] Clear some items from home inbox
 - [ ] Reconcile the budget
 - [ ] Look into gym status
