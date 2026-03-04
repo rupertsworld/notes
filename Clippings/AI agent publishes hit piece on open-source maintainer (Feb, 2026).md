@@ -1,6 +1,6 @@
 # AI agent publishes hit piece on open-source maintainer
 
-#ai #safety #autonomy #open-source
+#ai #safety #agents #opensource
 
 https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
 
