@@ -39,6 +39,7 @@
 
 # Actions
 
+- [ ] Process photos from Sedona
 - [ ] Read Borthwick article and respond
 - [ ] Write a journal summary for February
 - [ ] Reach out to Dees re: visiting in March (maybe with Stephen) — also review his [Open Source Endowment post](https://www.linkedin.com/feed/update/urn:li:activity:7432858017693528064/)
