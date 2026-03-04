@@ -6,4 +6,4 @@ https://www.independent.co.uk/news/world/middle-east/rubio-iran-israel-war-attac
 
 Secretary of State Rubio said the US struck Iran preemptively because they knew Israel was about to launch its own attack, which would have provoked Iranian retaliation against American forces. The US decided to act first rather than absorb casualties.
 
-See also: [[2026.03 US-Iran war]]
+See also: [[2026.02-03 US-Iran war]]
