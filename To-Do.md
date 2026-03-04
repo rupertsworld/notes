@@ -65,17 +65,17 @@ Two big creative blocks today: start the article draft, and do agent UI sketches
 - [ ] Finish writing [future-stack.md](https://github.com/telepath-computer/company/blob/main/drafts/future-stack.md)
 - [ ] Call Serramonte Ford re: car mold update
 
-At home:
+**At home:**
 
 - [ ] Clear home inbox
 - [ ] Check out laundry light – figure out what's wrong
 
-With Izzi:
+**With Izzi:**
 
 - [ ] Discuss Survivor watch plan (not urgent — Sunday?)
 - [ ] La Dolce Vita activities
 
-With Telepath:
+**With Telepath:**
 
 - [ ] Ask Josh about the places we went in Sedona
 - [ ] Writing about `stash`
