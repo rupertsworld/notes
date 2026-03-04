@@ -1,6 +1,6 @@
 # Today
 
-Two big creative blocks today: start the article draft, and do agent UI sketches. Budget is overdue — close it out with Izzi tonight. Quick comms if there's space. Gym @ 4pm, the
+Two big creative blocks today: start the article draft, and do agent UI sketches. Budget is overdue — close it out with Izzi tonight. Quick comms if there's space. Gym @ 4pm, then off to pick up Mina.
 
 **Core work:**
 
