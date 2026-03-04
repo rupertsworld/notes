@@ -5,8 +5,8 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] ==Start writing article & newsletter==
 	- [ ] Decide on topic first — that determines next steps
 - [ ] ==Create sketches for agent UI / Television styling==
-- [ ] Iz: discuss final budge
-- [ ] ==Email Yiliu==
+- [ ] Iz: discuss final budget questions
+- [ ] ==Email Yiliu=
 - [ ] Reply to Dees re: visiting in March
 - [ ] Respond to Love & Money re: branding direction
 - [ ] Check on Paul re: interview rescheduling
