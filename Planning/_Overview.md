@@ -2,7 +2,7 @@
 
 ## Regular habits & reminders
 
-- Follow up with advisors (keep the relationship warm)
+- Follow up with advisors (keep relationships warm)
 - Stay visible & connected with community (socials, etc.)
 - Getting mental & physical health back on track
 - Regular budgeting
