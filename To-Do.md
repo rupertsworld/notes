@@ -13,7 +13,8 @@
 - [x] Reply to Dees
 - [x] Review videos from Josh
 - [x] ==Do sketches for Obsidian plugin==
-- [ ] Merge fixes from Josh
+- [x] Merge fixes from Josh
+- [ ] Finish
 - [ ] Attempt to fix the printer
 - [ ] Cancel Aussie Broadband
 - [ ] Email Yiliu
