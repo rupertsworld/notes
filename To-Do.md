@@ -12,6 +12,7 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] Check on Paul re: interview rescheduling
 - [ ] Process photos from Sedona
 - [ ] Re-attempt sending cash to Priyanka
+- [ ] Respond to MozAlums Responsible AI thread
 
 ---
 
