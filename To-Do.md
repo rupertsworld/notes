@@ -57,8 +57,6 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] Finish writing [future-stack.md](https://github.com/telepath-computer/company/blob/main/drafts/future-stack.md)
 - [ ] Start design work to spec the Obsidian plugin
 - [ ] Debug the Obsidian plugin
-- [ ] Get Stash ready for release (post-trip)
-- [ ] Get Television ready to demo
 - [ ] Call Serramonte Ford re: car mold update
 
 At home:
