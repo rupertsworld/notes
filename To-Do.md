@@ -36,6 +36,7 @@
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
 - [ ] Email Yiliu
+- [ ] Reply to messages
 - [ ] Create `live-spec` repo/specify
 - [ ] Clear some items from home inbox
 - [ ] Look into gym status
