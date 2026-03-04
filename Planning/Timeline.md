@@ -2,7 +2,7 @@
 
 Items to action on or after a rough date, plus things coming up next. Review regularly and promote to `To-Do` and/or notify the user when the time comes.
 
-## Up next
+## On my radar
 
 - Investigate Delaware payment for Desktop Metaphors
 - Ask Stephen about calendar share permissions
