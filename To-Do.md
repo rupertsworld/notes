@@ -27,7 +27,6 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 
 # Actions
 
-- [ ] Email Yiliu
 - [ ] Reply to messages
 - [ ] Create `live-spec` repo/specify
 - [ ] Clear some items from home inbox
