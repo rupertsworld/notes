@@ -110,7 +110,3 @@ With Telepath:
 - Wrap up Unternet: archive DigitalOcean server (!)
 - Immigration: recap process with Cammisa Markel, things went askew, need to find right approach
 
----
-
-- Ask Stephen about calendar share permissions
-- Look into Betaworks invitation
