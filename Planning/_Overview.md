@@ -1,6 +1,6 @@
 # Overview
 
-## Regu
+## Regular habits & reminders
 
 - Follow up with Scott Jenson (keep the relationship warm)
 - Stay visible & connected with community (socials, etc.)
