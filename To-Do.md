@@ -4,7 +4,7 @@ Two big creative blocks today: start the article draft, and do agent UI sketches
 
 **Events:**
 
-4pm: Gym
+- 4pm: Gym
 5pm: Pick up Mina
 
 **Core work:**
