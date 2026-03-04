@@ -24,7 +24,7 @@
 - [ ] Process photos from Sedona
 - [ ] Clear some items from home inbox
 - [ ] Reconcile the budget
-- [ ] Read Borthwick article and respond
+
 - [ ] Look into gym status
 - [ ] Pack away washing
 
@@ -39,6 +39,7 @@
 
 # Actions
 
+- [ ] Read Borthwick article and respond
 - [ ] Write a journal summary for February
 - [ ] Reach out to Dees re: visiting in March (maybe with Stephen) — also review his [Open Source Endowment post](https://www.linkedin.com/feed/update/urn:li:activity:7432858017693528064/)
 - [ ] Review & respond to [Web Tiles as the base for Lexicon Embeds](https://discourse.atprotocol.community/t/web-tiles-as-the-base-for-lexicon-embeds/613) on AT Proto community
