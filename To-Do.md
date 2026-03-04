@@ -37,7 +37,6 @@ Free until gym at 4pm, Mina pick-up at 5. Two big creative blocks today: start t
 - [ ] Find documents from Iz & schedule call with IRS
 - [ ] Email Cammisa Markel for a recap meeting
 - [ ] Pull down remaining files from Unternet DigitalOcean server (then archive/shut down)
-- [ ] Re-attempt sending cash to Priyanka
 - [ ] Review [jameesy thread](https://x.com/jameesy/status/2026628809424781787) re user research
 - [ ] Write up user interviews and add to group
 - [ ] Check with Stephen re: Camilo demo email (then email Camilo & CC Stephen)
