@@ -85,7 +85,7 @@ With Telepath:
 
 - [[Telepath user testing]]: write up interviews, recruit testers
 	- Reschedule Paul & potentially Anish
-- Obsidian plugin: spec design work, debug
+- Obsidian plugin: design done, waiting on Josh dev cycle
 - Meet with Yiliu: reschedule after missed meeting
 - Stash: basically ready — use with team for a bit, then write release
 - Fix the printer (see [[Brother HL-L3220CDW]])
