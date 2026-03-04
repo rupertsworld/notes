@@ -117,7 +117,7 @@ With Telepath:
 - Obsidian plugin: spec design work, debug
 - Meet with Yiliu: reschedule after missed meeting
 - Stash: race condition fixes from Josh
-- Fix the printer
+- Fix the printer (see [[Brother HL-L3220CDW]])
 - Telepath side-projects: Stash, Television (+ Transponder)
 - Fix the laundry light
 - Unclog the drain
