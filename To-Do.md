@@ -19,8 +19,8 @@
 - [x] Finish final bug fixes for `stash`
 - [x] Attempt to fix the printer
 - [x] Reconcile the budget
+- [x] Process more items from my inbox
 - [ ] Email Yiliu
-- [ ] Process more items from my inbox
 - [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
 - [ ] Create `live-spec` repo/specify
