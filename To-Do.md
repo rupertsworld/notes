@@ -33,7 +33,7 @@
 # Actions
 
 - [ ] ==Create sketches for agent UI==
-- [ ] - [ ] ==Review outstanding payments==
+- [ ] ==Review outstanding payments==
 - [ ] ==Start writing my article & newsletter==
 - [ ] Email Yiliu
 - [ ] Create `live-spec` repo/specify
