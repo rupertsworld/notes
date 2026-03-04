@@ -91,6 +91,7 @@ With Izzi:
 
 - [ ] Discuss Survivor watch plan (not urgent — Sunday?)
 - [ ] La Dolce Vita activities
+- [ ] Final b
 
 With Telepath:
 
