@@ -14,7 +14,7 @@
 - [x] Review videos from Josh
 - [x] ==Do sketches for Obsidian plugin==
 - [x] Merge fixes from Josh
-- [ ] Finish final bug fixes 
+- [ ] Finish final bug fixes for `stash`
 - [ ] Attempt to fix the printer
 - [ ] Cancel Aussie Broadband
 - [ ] Email Yiliu
